@@ -15,7 +15,6 @@ while True:
     except:
         numeros_validos = None
         
-
     if numeros_validos is None:
         print('Um ou ambos os números digitados são inválidos.')
         continue
